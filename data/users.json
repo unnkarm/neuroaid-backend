@@ -1,0 +1,63 @@
+{
+  "9dd6a4e6-eb59-419c-acb3-b09fdc1c198f": {
+    "id": "9dd6a4e6-eb59-419c-acb3-b09fdc1c198f",
+    "full_name": "Unni K",
+    "email": "unnitakarmakar2005@gmail.com",
+    "password_hash": "0d36408a4bbf88f3bdebfe7ef2ced919e3f6c750f399fc2037dd0d91eac9b4f3",
+    "role": "doctor",
+    "age": null,
+    "gender": null,
+    "phone": null,
+    "license_number": "MCI-9870",
+    "created_at": "2026-02-27T06:33:02.605187",
+    "last_login": "2026-02-27T06:38:01.724201",
+    "specialization": "Neurology",
+    "hospital": "Apollo",
+    "location": "Kolkata",
+    "years_experience": 10,
+    "consultation_mode": "Both",
+    "bio": null,
+    "max_patients": 10,
+    "current_patients": 1,
+    "patient_list": [
+      "c8f0fd79-58d3-4c36-a9f6-cf15fa409444"
+    ],
+    "pending_requests": []
+  },
+  "c8f0fd79-58d3-4c36-a9f6-cf15fa409444": {
+    "id": "c8f0fd79-58d3-4c36-a9f6-cf15fa409444",
+    "full_name": "Unnita K",
+    "email": "unnitakarmakar985@gmail.com",
+    "password_hash": "b44a1ad6e9513b6888b2e03b22e30e1a32367b98323bb15f404369bf7d9fa4e6",
+    "role": "patient",
+    "age": 50,
+    "gender": "Female",
+    "phone": "9433327277",
+    "license_number": null,
+    "created_at": "2026-02-27T06:33:31.271302",
+    "last_login": "2026-02-27T06:33:31.271340",
+    "handedness": "right",
+    "education": "Master's",
+    "occupation": "Engineer",
+    "medicalHistory": [
+      "Heart Disease",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "currentMeds": "None",
+    "priorHeadInjury": false,
+    "exerciseFreq": "3-4x/week",
+    "smokingStatus": "current",
+    "alcoholUse": "heavy",
+    "sleepHours": "8",
+    "sleepQuality": "fair",
+    "depressionHistory": false,
+    "anxietyHistory": false,
+    "familyHistory": false,
+    "familyHistoryDetails": [],
+    "existingDiagnosis": false,
+    "cognitiveComplaints": [],
+    "baselineTestDate": "2026-02-27",
+    "assigned_doctor_id": "9dd6a4e6-eb59-419c-acb3-b09fdc1c198f"
+  }
+}
